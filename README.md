@@ -11,3 +11,17 @@ Paper: [PDF](https://drive.google.com/file/d/1Ov3NNmB9nk_01Q5TcWM_i_g2wIxDhuIO/v
 Demo: [Web](http://krrwebtools.cs.ox.ac.uk:3000){:target="_blank"}, [REST API](http://krrwebtools.cs.ox.ac.uk:4000){:target="_blank"}
 
 LogMap: [Web](https://github.com/ernestojimenezruiz/logmap-matcher){:target="_blank"}, [Main paper](http://www.cs.ox.ac.uk/files/4801/LogMap_ecai2012.pdf){:target="_blank"}
+
+
+<img src="https://raw.githubusercontent.com/turing-knowledge-graphs/teaching/main" width="60" alt="Architecture">  
+
+
+
+*Open links in a new tab/window.*
+
+
+
+
+---
+
+<img src="https://raw.githubusercontent.com/turing-knowledge-graphs/teaching/main/city/city-logo.jpg" width="60" alt="City">   [City, University of London](https://www.city.ac.uk/)
