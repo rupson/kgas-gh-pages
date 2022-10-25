@@ -12,12 +12,14 @@ Demo: [Web](http://krrwebtools.cs.ox.ac.uk:3000){:target="_blank"}, [REST API](h
 
 LogMap: [Web](https://github.com/ernestojimenezruiz/logmap-matcher){:target="_blank"}, [Main paper](http://www.cs.ox.ac.uk/files/4801/LogMap_ecai2012.pdf){:target="_blank"}
 
-
-<img src="https://raw.githubusercontent.com/turing-knowledge-graphs/teaching/main" width="60" alt="Architecture">  
-
+*(\*) Open links in a new tab/window.*
 
 
-*Open links in a new tab/window.*
+<img src="https://github.com/rupson/kgas-gh-pages/blob/main/architecture-kgas.png?raw=true" width="960" alt="Architecture">  
+
+
+
+
 
 
 
