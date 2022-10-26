@@ -10,7 +10,7 @@ Paper: [PDF](https://drive.google.com/file/d/1Ov3NNmB9nk_01Q5TcWM_i_g2wIxDhuIO/v
 
 Demo: [Web](http://krrwebtools.cs.ox.ac.uk:3000){:target="_blank"}, [REST API](http://krrwebtools.cs.ox.ac.uk:4000){:target="_blank"}
 
-LogMap: [Web](https://github.com/ernestojimenezruiz/logmap-matcher){:target="_blank"}, [Main paper](http://www.cs.ox.ac.uk/files/4801/LogMap_ecai2012.pdf){:target="_blank"}
+In the current proof-of-concept we are using LogMap ([Web](https://github.com/ernestojimenezruiz/logmap-matcher){:target="_blank"}, [Main paper](http://www.cs.ox.ac.uk/files/4801/LogMap_ecai2012.pdf){:target="_blank"}), but the same concept could be generalised to use the [MELT platform](https://github.com/dwslab/melt){:target="_blank"} ato enable the use of multiple Knowledge Graph Alignment systems available within MELT.
 
 *(\*) Open links in a new tab/window.*
 
